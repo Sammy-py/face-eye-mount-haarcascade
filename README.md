@@ -1,4 +1,4 @@
-# face-eye-mount-haarcascade - video ve eş zamanlı görüntü için
+# face-eye-mount-haarcascade - video - resim- eş zamanlı görüntü
 
 hazır cascadeler = https://github.com/opencv/opencv/tree/master/data/haarcascades
 
